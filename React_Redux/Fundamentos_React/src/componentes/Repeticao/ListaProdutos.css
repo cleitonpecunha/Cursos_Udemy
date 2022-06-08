@@ -1,0 +1,15 @@
+.ListaProdutos table {
+    width: 100%;}
+
+.ListaProdutos th {
+    background-color: blue;
+    color: white;}
+
+.ListaProdutos .CorSim {
+    background-color: brown;}
+
+.ListaProdutos .CorNao {
+    background-color: blueviolet;}
+
+.ListaProdutos .Centralizar {
+    justify-content: center;}
